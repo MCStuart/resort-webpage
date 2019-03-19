@@ -1,0 +1,28 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+html {
+  background-color: aquamarine;
+}
+
+h1 {
+  text-align: center;
+  font-size: 35px;
+}
+
+h6 {
+  text-align: center;
+  font-style: italic;
+}
+
+h3 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
